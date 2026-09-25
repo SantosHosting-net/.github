@@ -1,18 +1,13 @@
-# BrickHosting.org
+# SantosHosting.net
 
-Official GitHub organization for BrickHosting.org.
+Official GitHub organization for SantosHosting.net.
 
-We host and maintain our deployment eggs, runtime templates, and infrastructure configurations here.
-
-This includes:
-
-- Pterodactyl eggs  
-- Runtime definitions  
+We use this organization to maintain deployment configurations, runtime templates, and other infrastructure resources used across our hosting platform.
 
 ---
 
-All repositories in this organization are used in production environments.
+Repositories maintained here may be used in production environments.
 
-If you deploy services on BrickHosting, these repositories power your instances.
+If you deploy supported services with SantosHosting, these resources may be part of the infrastructure that powers your instances.
 
-For support or questions, use our official Discord: https://discord.gg/e2h92FX4p9
+For support or questions, please use our official support channels.
